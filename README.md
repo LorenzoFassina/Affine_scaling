@@ -1,3 +1,3 @@
 # Affine_scaling
 
-Affine scaling alghorith for linear optimization
+Affine scaling algorithm linear optimization
