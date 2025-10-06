@@ -27,5 +27,4 @@ Each project is self-contained and includes:
 - **NumPy**, **Pandas**, **Matplotlib** (for computation and visualization)
 - **Pyomo** (for optimization routines, when applicable)
 
-   cd linear-optimization-projects
 
